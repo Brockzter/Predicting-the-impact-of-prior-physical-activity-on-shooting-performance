@@ -1,4 +1,4 @@
-import pandas as pd
+#import pandas as pd
 import matplotlib.pyplot as plt
 
 SESSION = ['1.txt', '2.txt', '3.txt', '4.txt', '5.txt']
