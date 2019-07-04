@@ -1,0 +1,241 @@
+﻿Id,ParamName,ParamValue,Event_id
+3494,Entity Name,ShootingRange,1211
+3495,Force,Friendly,1211
+3496,Entity Name,col_01,1212
+3497,Force,Opposing,1212
+3498,Entity Name,col_02,1213
+3499,Force,Opposing,1213
+3500,Entity Name,col_03,1214
+3501,Force,Opposing,1214
+3502,Entity Name,Target_5shot_110,1215
+3503,Force,Opposing,1215
+3504,Entity Name,Target_5shot_110,1216
+3505,Force,Opposing,1216
+3506,Entity Name,Target_5shot_110,1217
+3507,Force,Opposing,1217
+3508,Entity Name,Target_5shot_110,1218
+3509,Force,Opposing,1218
+3510,Entity Name,Target_5shot_110,1219
+3511,Force,Opposing,1219
+3512,Entity Name,Target_5shot_110,1220
+3513,Criteria,{evalType:'BasicMarksmanship'},1220
+3514,Entity Name,Target_5shot_110,1221
+3515,Force,Opposing,1221
+3516,Entity Name,Target_5shot_110,1222
+3517,Criteria,{evalType:'BasicMarksmanship'},1222
+3518,Trainee Name,Tom Hut,1223
+3519,Weapon Name,GLOCK19,1223
+3520,Ammunition Name,9MM_LUGER,1223
+3521,Trainee Name,Tom Hut,1224
+3522,Weapon Name,GLOCK19,1224
+3523,Ammunition Name,9MM_LUGER,1224
+3524,Target Name,Target_5shot_110,1225
+3525,Score,7,1225
+3526,Collider,target-hit-7,1225
+3527,Trainee Name,Tom Hut,1225
+3528,Entity Name,Target_5shot_110,1226
+3529,Trainee Name,Tom Hut,1227
+3530,Weapon Name,GLOCK19,1227
+3531,Ammunition Name,9MM_LUGER,1227
+3532,Target Name,Target_5shot_110,1228
+3533,Score,6,1228
+3534,Collider,target-hit-6,1228
+3535,Trainee Name,Tom Hut,1228
+3536,Trainee Name,Tom Hut,1229
+3537,Weapon Name,GLOCK19,1229
+3538,Ammunition Name,9MM_LUGER,1229
+3539,Target Name,Target_5shot_110,1230
+3540,Score,9,1230
+3541,Collider,target-hit-9,1230
+3542,Trainee Name,Tom Hut,1230
+3543,Trainee Name,Tom Hut,1231
+3544,Weapon Name,GLOCK19,1231
+3545,Ammunition Name,9MM_LUGER,1231
+3546,Target Name,Target_5shot_110,1232
+3547,Score,1,1232
+3548,Collider,target-hit-1,1232
+3549,Trainee Name,Tom Hut,1232
+3550,Entity Name,Target_5shot_110,1233
+3551,Force,Opposing,1233
+3552,Entity Name,Target_5shot_110,1234
+3553,Criteria,{evalType:'BasicMarksmanship'},1234
+3554,Trainee Name,Tom Hut,1235
+3555,Weapon Name,GLOCK19,1235
+3556,Ammunition Name,9MM_LUGER,1235
+3557,Target Name,Target_5shot_110,1236
+3558,Score,3,1236
+3559,Collider,target-hit-3,1236
+3560,Trainee Name,Tom Hut,1236
+3561,Entity Name,Target_5shot_110,1237
+3562,Trainee Name,Tom Hut,1238
+3563,Weapon Name,GLOCK19,1238
+3564,Ammunition Name,9MM_LUGER,1238
+3565,Target Name,Target_5shot_110,1239
+3566,Score,7,1239
+3567,Collider,target-hit-7,1239
+3568,Trainee Name,Tom Hut,1239
+3569,Trainee Name,Tom Hut,1240
+3570,Weapon Name,GLOCK19,1240
+3571,Ammunition Name,9MM_LUGER,1240
+3572,Target Name,Target_5shot_110,1241
+3573,Score,8,1241
+3574,Collider,target-hit-8,1241
+3575,Trainee Name,Tom Hut,1241
+3576,Trainee Name,Tom Hut,1242
+3577,Weapon Name,GLOCK19,1242
+3578,Ammunition Name,9MM_LUGER,1242
+3579,Target Name,Target_5shot_110,1243
+3580,Score,3,1243
+3581,Collider,target-hit-3,1243
+3582,Trainee Name,Tom Hut,1243
+3583,Trainee Name,Tom Hut,1244
+3584,Weapon Name,GLOCK19,1244
+3585,Ammunition Name,9MM_LUGER,1244
+3586,Target Name,Target_5shot_110,1245
+3587,Score,3,1245
+3588,Collider,target-hit-3,1245
+3589,Trainee Name,Tom Hut,1245
+3590,Entity Name,Target_5shot_110,1246
+3591,Criteria,{evalType:'BasicMarksmanship'},1246
+3592,Entity Name,Target_5shot_110,1247
+3593,Force,Opposing,1247
+3594,Entity Name,Target_5shot_110,1248
+3595,Criteria,{evalType:'BasicMarksmanship'},1248
+3596,Trainee Name,Tom Hut,1249
+3597,Weapon Name,GLOCK19,1249
+3598,Ammunition Name,9MM_LUGER,1249
+3599,Target Name,Target_5shot_110,1250
+3600,Score,1,1250
+3601,Collider,target-hit-1,1250
+3602,Trainee Name,Tom Hut,1250
+3603,Entity Name,Target_5shot_110,1251
+3604,Trainee Name,Tom Hut,1252
+3605,Weapon Name,GLOCK19,1252
+3606,Ammunition Name,9MM_LUGER,1252
+3607,Target Name,Target_5shot_110,1253
+3608,Score,4,1253
+3609,Collider,target-hit-4,1253
+3610,Trainee Name,Tom Hut,1253
+3611,Trainee Name,Tom Hut,1254
+3612,Weapon Name,GLOCK19,1254
+3613,Ammunition Name,9MM_LUGER,1254
+3614,Target Name,Target_5shot_110,1255
+3615,Score,8,1255
+3616,Collider,target-hit-8,1255
+3617,Trainee Name,Tom Hut,1255
+3618,Trainee Name,Tom Hut,1256
+3619,Weapon Name,GLOCK19,1256
+3620,Ammunition Name,9MM_LUGER,1256
+3621,Target Name,Target_5shot_110,1257
+3622,Score,7,1257
+3623,Collider,target-hit-7,1257
+3624,Trainee Name,Tom Hut,1257
+3625,Trainee Name,Tom Hut,1258
+3626,Weapon Name,GLOCK19,1258
+3627,Ammunition Name,9MM_LUGER,1258
+3628,Target Name,Target_5shot_110,1259
+3629,Score,5,1259
+3630,Collider,target-hit-5,1259
+3631,Trainee Name,Tom Hut,1259
+3632,Entity Name,Target_5shot_110,1260
+3633,Criteria,{evalType:'BasicMarksmanship'},1260
+3634,Entity Name,Target_5shot_110,1261
+3635,Force,Opposing,1261
+3636,Entity Name,Target_5shot_110,1262
+3637,Criteria,{evalType:'BasicMarksmanship'},1262
+3638,Trainee Name,Tom Hut,1263
+3639,Weapon Name,GLOCK19,1263
+3640,Ammunition Name,9MM_LUGER,1263
+3641,Trainee Name,Tom Hut,1264
+3642,Weapon Name,GLOCK19,1264
+3643,Ammunition Name,9MM_LUGER,1264
+3644,Trainee Name,Tom Hut,1265
+3645,Weapon Name,GLOCK19,1265
+3646,Ammunition Name,9MM_LUGER,1265
+3647,Target Name,Target_5shot_110,1266
+3648,Score,1,1266
+3649,Collider,target-hit-1,1266
+3650,Trainee Name,Tom Hut,1266
+3651,Entity Name,Target_5shot_110,1267
+3652,Trainee Name,Tom Hut,1268
+3653,Weapon Name,GLOCK19,1268
+3654,Ammunition Name,9MM_LUGER,1268
+3655,Target Name,Target_5shot_110,1269
+3656,Score,2,1269
+3657,Collider,target-hit-2,1269
+3658,Trainee Name,Tom Hut,1269
+3659,Trainee Name,Tom Hut,1270
+3660,Weapon Name,GLOCK19,1270
+3661,Ammunition Name,9MM_LUGER,1270
+3662,Target Name,Target_5shot_110,1271
+3663,Score,5,1271
+3664,Collider,target-hit-5,1271
+3665,Trainee Name,Tom Hut,1271
+3666,Entity Name,Target_5shot_110,1272
+3667,Force,Opposing,1272
+3668,Entity Name,Target_5shot_110,1273
+3669,Criteria,{evalType:'BasicMarksmanship'},1273
+3670,Trainee Name,Tom Hut,1274
+3671,Weapon Name,GLOCK19,1274
+3672,Ammunition Name,9MM_LUGER,1274
+3673,Trainee Name,Tom Hut,1275
+3674,Weapon Name,GLOCK19,1275
+3675,Ammunition Name,9MM_LUGER,1275
+3676,Trainee Name,Tom Hut,1276
+3677,Weapon Name,GLOCK19,1276
+3678,Ammunition Name,9MM_LUGER,1276
+3679,Target Name,Target_5shot_110,1277
+3680,Score,5,1277
+3681,Collider,target-hit-5,1277
+3682,Trainee Name,Tom Hut,1277
+3683,Entity Name,Target_5shot_110,1278
+3684,Trainee Name,Tom Hut,1279
+3685,Weapon Name,GLOCK19,1279
+3686,Ammunition Name,9MM_LUGER,1279
+3687,Target Name,Target_5shot_110,1280
+3688,Score,4,1280
+3689,Collider,target-hit-4,1280
+3690,Trainee Name,Tom Hut,1280
+3691,Trainee Name,Tom Hut,1281
+3692,Weapon Name,GLOCK19,1281
+3693,Ammunition Name,9MM_LUGER,1281
+3694,Target Name,Target_5shot_110,1282
+3695,Score,4,1282
+3696,Collider,target-hit-4,1282
+3697,Trainee Name,Tom Hut,1282
+3698,Entity Name,Target_5shot_110,1283
+3699,Force,Opposing,1283
+3700,Entity Name,Target_5shot_110,1284
+3701,Criteria,{evalType:'BasicMarksmanship'},1284
+3702,Trainee Name,Tom Hut,1285
+3703,Weapon Name,GLOCK19,1285
+3704,Ammunition Name,9MM_LUGER,1285
+3705,Trainee Name,Tom Hut,1286
+3706,Weapon Name,GLOCK19,1286
+3707,Ammunition Name,9MM_LUGER,1286
+3708,Target Name,Target_5shot_110,1287
+3709,Score,5,1287
+3710,Collider,target-hit-5,1287
+3711,Trainee Name,Tom Hut,1287
+3712,Entity Name,Target_5shot_110,1288
+3713,Trainee Name,Tom Hut,1289
+3714,Weapon Name,GLOCK19,1289
+3715,Ammunition Name,9MM_LUGER,1289
+3716,Target Name,Target_5shot_110,1290
+3717,Score,2,1290
+3718,Collider,target-hit-2,1290
+3719,Trainee Name,Tom Hut,1290
+3720,Trainee Name,Tom Hut,1291
+3721,Weapon Name,GLOCK19,1291
+3722,Ammunition Name,9MM_LUGER,1291
+3723,Target Name,Target_5shot_110,1292
+3724,Score,5,1292
+3725,Collider,target-hit-5,1292
+3726,Trainee Name,Tom Hut,1292
+3727,Trainee Name,Tom Hut,1293
+3728,Weapon Name,GLOCK19,1293
+3729,Ammunition Name,9MM_LUGER,1293
+3730,Target Name,Target_5shot_110,1294
+3731,Score,7,1294
+3732,Collider,target-hit-7,1294
+3733,Trainee Name,Tom Hut,1294
